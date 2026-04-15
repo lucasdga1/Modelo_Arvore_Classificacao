@@ -1,14 +1,16 @@
 # Modelo_Arvore_Classificacao
 ## Este repositório é dedicado a um projeto de modelo de árvore de classificação
 
-* Objetivo: Criar um modelo de árvore capaz de classificar clientes, em relação ao seu score de crédito, com base em dados financeiros.
+* Objetivo: Criar um modelo de árvore capaz de classificar clientes com base em dados financeiros, em relação ao seu score de crédito.
 * Requisitos: Ter uma plataforma de escrita em Python, Jupyter notebook ou executar no prompt de comando
 * Instalação: Copiar e colar o código; fazer o download da base de dados, executar o código
-* <a href="https://github.com/lucasdga1/Projeto_EBAC_M13/blob/main/MODULO7_PROJETOFINAL_BASE_SUPERMERCADO%20-%20MODULO7_PROJETOFINAL_BASE_SUPERMERCADO%20(1).csv.csv">Base de dados</a>
-* <a href="https://github.com/lucasdga1/Projeto_EBAC_M13/blob/main/Profissao%20Cientista%20de%20Dados%20M13%20Projeto.ipynb">Código do laboratório resolvido</a>
-<img width="1567" height="520" alt="Lab_01" src="https://github.com/user-attachments/assets/d8f266f2-1664-484d-ac7e-e697cdb8e18b" />
-<img width="1650" height="565" alt="Lab_02" src="https://github.com/user-attachments/assets/21d2b21a-ff43-47b3-a174-2a0675050a3f" />
-<img width="1425" height="352" alt="Lab_03" src="https://github.com/user-attachments/assets/a56acbc6-9f17-45c5-9ca4-74cb3de1537a" />
+* <a href="https://github.com/lucasdga1/Modelo_Arvore_Classificacao/blob/main/Cientista%20de%20Dados%20M21%20Pratique.ipynb">Código do modelo</a>
+
+## Gráficos usados no modelo  
+<img width="1620" height="822" alt="Arvore_1" src="https://github.com/user-attachments/assets/6f336b2e-f62b-4e17-a897-8b4ea8818842" />
+<img width="1188" height="687" alt="Features_arvore" src="https://github.com/user-attachments/assets/0e11880a-36f6-4f67-9cfd-a3137ea96c33" />
+
+
 
 
 
